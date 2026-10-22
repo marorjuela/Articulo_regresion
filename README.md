@@ -23,6 +23,7 @@ Las muestras fueron evaluadas mediante ensayos de laboratorio siguiendo normas A
 
 La clasificación de los suelos según el Sistema Unificado de Clasificación de Suelos (SUCS) corresponde a MH (18), ML (9), CH (6) y CL (5).
 
-El archivo **datos.xlsx** contiene las 38 observaciones experimentales presentadas en la Tabla 1 del artículo. Estos datos se utilizarán para ajustar y evaluar modelos de regresión.
+El archivo **datos.xlsx** contiene las 38 observaciones experimentales de la Tabla 1 del artículo, incluyendo el CBR natural y saturado, límite líquido, índice de plasticidad, resistencia a la compresión inconfinada y clasificación del suelo.
+
 
 
