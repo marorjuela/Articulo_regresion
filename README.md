@@ -18,7 +18,7 @@ El artículo busca una alternativa: **estimar el CBR a partir de ensayos más ba
   - Cali y municipios cercanos (Valle del Cauca).
   - Norte del Cauca.
   - Popayán, con suelos de cenizas volcánicas.
-- Ensayos de laboratorio según normas ASTM.
+Las muestras fueron evaluadas mediante ensayos de laboratorio siguiendo normas ASTM.
 - Tipos de suelo (SUCS): MH (18), ML (9), CH (6) y CL (5).
 
 El archivo **datos.xlsx** contiene las 38 observaciones experimentales presentadas en la Tabla 1 del artículo. Estos datos se utilizarán para ajustar y evaluar modelos de regresión.
