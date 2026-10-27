@@ -28,10 +28,8 @@ frecuencias <- table(datos$sucs)
 
 cat("\nFrecuencias por tipo de suelo (SUCS):\n")
 print(frecuencias)
-
 cat("\nPorcentajes por tipo de suelo (SUCS):\n")
 print(round(100 * prop.table(frecuencias), 2))
-
 cat("\nMatriz de correlaciones de Pearson:\n")
 print(round(cor(numericas), 3))
 
