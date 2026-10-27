@@ -33,6 +33,7 @@ print(round(100 * prop.table(frecuencias), 2))
 cat("\nMatriz de correlaciones de Pearson:\n")
 print(round(cor(numericas), 3))
 
+# Gráficas 
 hist(datos$cbr_nat, main = "CBR natural", xlab = "CBR natural (%)")
 hist(datos$cbr_sat, main = "CBR saturado", xlab = "CBR saturado (%)")
 hist(datos$ll, main = "Limite liquido", xlab = "Limite liquido (%)")
